@@ -1,0 +1,30 @@
+# Node
+node_modules/
+build/
+package-lock.json
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+products.db
+.pytest_cache/
+
+# Virtual environments
+py312env/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Misc
+.DS_Store
